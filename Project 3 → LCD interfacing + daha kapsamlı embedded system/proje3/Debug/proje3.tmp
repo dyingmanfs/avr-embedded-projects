@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M128DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\Debug\proje3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proje3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proje3.map</FILE>
+  <FILE>proje3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <M><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>12</LINE></M>
+  <EX0_ISR><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>543</LINE></EX0_ISR>
+  <BEGIN><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>42</LINE></BEGIN>
+  <Scenario1><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>53</LINE></Scenario1>
+  <CMNDWRT><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>476</LINE></CMNDWRT>
+  <DELAY_100us><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>527</LINE></DELAY_100us>
+  <DATAWRT><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>496</LINE></DATAWRT>
+  <DELAY_15s><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>431</LINE></DELAY_15s>
+  <Scenario2><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>145</LINE></Scenario2>
+  <DELAY_3s><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>440</LINE></DELAY_3s>
+  <Scenario3><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>238</LINE></Scenario3>
+  <Scenario4><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>331</LINE></Scenario4>
+  <DELAY_LOOP><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>433</LINE></DELAY_LOOP>
+  <DELAY_250ms><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>449</LINE></DELAY_250ms>
+  <DELAY_LOOP2><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>442</LINE></DELAY_LOOP2>
+  <WAIT_CTC><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>464</LINE></WAIT_CTC>
+  <SDELAY><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>536</LINE></SDELAY>
+  <DELAY_1s><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>621</LINE></DELAY_1s>
+  <DELAY_2ms><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>517</LINE></DELAY_2ms>
+  <LDR0><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>520</LINE></LDR0>
+  <DR0><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>530</LINE></DR0>
+  <A><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>628</LINE></A>
+  <WAIT><FILE>C:\Users\Furkan\Documents\Atmel Studio\7.0\proje3\proje3\main.asm</FILE><LINE>633</LINE></WAIT>
+ </LABELS>
+</ASSEMBLER_INFO>
